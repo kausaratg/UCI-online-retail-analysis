@@ -117,7 +117,7 @@ Cancellation records were retained because they are useful for understanding ord
 
 ---
 
-## 💻 Tools & Technologies
+## Tools & Technologies
 
 * **SQL / PostgreSQL** — data analysis and querying
 * **Power BI** — data visualization and dashboard development
@@ -126,7 +126,7 @@ Cancellation records were retained because they are useful for understanding ord
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 ### Revenue Performance
 
