@@ -192,11 +192,10 @@ The Power BI dashboard provides an interactive view of the analysis, allowing us
 
 ### Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
+![Dashboard Preview](images/image1.png)
+![Dashboard Preview](images/image2.png)
+![Dashboard Preview](images/image3.png)
 
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
 
 
 
